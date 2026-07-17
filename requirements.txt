@@ -1,0 +1,10 @@
+torch
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+emoji
+streamlit
+pyngrok
+matplotlib
